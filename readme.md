@@ -68,8 +68,3 @@ Your web browser should automatically open with the application running.
 
 ---
 
-### Screenshot
-
-*(Here you can add a screenshot of your running application)*
-
-![App Screenshot](WhatsApp Image 2025-06-25 at 17.14.39.jpeg)
