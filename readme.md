@@ -72,4 +72,4 @@ Your web browser should automatically open with the application running.
 
 *(Here you can add a screenshot of your running application)*
 
-![App Screenshot](path/to/your/screenshot.png)
+![App Screenshot](WhatsApp Image 2025-06-25 at 17.14.39.jpeg)
