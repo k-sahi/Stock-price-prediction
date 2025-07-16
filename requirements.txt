@@ -6,3 +6,4 @@ scikit-learn
 numpy
 seaborn
 matplotlib
+setuptools==59.6.0
