@@ -1,10 +1,10 @@
 streamlit
 yfinance
-pandas
 pandas-ta
 scikit-learn
-numpy
 seaborn
 matplotlib
 setuptools
-
+pandas==1.5.3
+numpy==1.23.5
+pandas-ta==0.3.14b0
